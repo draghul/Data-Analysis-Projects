@@ -1,5 +1,5 @@
 
-                                               D. Raghul - Data Alchemist Unleashing Insights! 🚀
+                               D. Raghul - Data Alchemist Unleashing Insights! 🚀
 
 🌐 Explorer of Data Realms | Engineer by Day, Analyst by Night | Turning Raw Data into Gold Nuggets! 📊
 
@@ -36,7 +36,6 @@ Crafting visually enchanting dashboards with Power BI – where complex data dan
 Let's not just analyze; let's transform data into actionable spells! Ready for collaborations and mystical discussions. Let's make data not just speak but sing!
 
 
-Raghul.D
-Data Analyst
+
 M : +91- 9365813322
 E :  raghulkhokani@gmail.com
