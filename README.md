@@ -20,12 +20,19 @@ Visualization Wands: Power BI
 Embark on a journey where algorithms detect driver drowsiness and predict stress levels. My project not only showcases technical prowess but a commitment to safety and well-being. We're not just predicting; we're protecting!
 
 🌟 Additional Chronicles:
+
 Amazon Odyssey: Navigated Amazon's vast dataset, uncovering trends and customer tales.
+
 Bitcoin Alchemy: Transmuted the volatile world of cryptocurrency, deciphering trends and market magic.
+
 Car Price Expedition: Explored the labyrinth of car prices, mastering the dynamics of markets.
+
 Covid-19 Quest: Contributed to the global saga, unveiling pandemic patterns and hotspots.
+
 Hotel Booking Lore: Revealed the secrets of bookings, decoded preferences in the hospitality realm.
+
 IMDb Sentiment Spell: Extracted sentiments from IMDb reviews, unveiling audience emotions.
+
 Uber Elevation: Delved into Uber's ride data, deciphering patterns and optimizing the journey.
 
 
