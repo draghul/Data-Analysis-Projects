@@ -21,19 +21,19 @@ Embark on a journey where algorithms detect driver drowsiness and predict stress
 
 🌟 Additional Chronicles:
 
-Amazon Odyssey: Navigated Amazon's vast dataset, uncovering trends and customer tales.
+--> Amazon Odyssey: Navigated Amazon's vast dataset, uncovering trends and customer tales.
 
-Bitcoin Alchemy: Transmuted the volatile world of cryptocurrency, deciphering trends and market magic.
+--> Bitcoin Alchemy: Transmuted the volatile world of cryptocurrency, deciphering trends and market magic.
 
-Car Price Expedition: Explored the labyrinth of car prices, mastering the dynamics of markets.
+--> Car Price Expedition: Explored the labyrinth of car prices, mastering the dynamics of markets.
 
-Covid-19 Quest: Contributed to the global saga, unveiling pandemic patterns and hotspots.
+--> Covid-19 Quest: Contributed to the global saga, unveiling pandemic patterns and hotspots.
 
-Hotel Booking Lore: Revealed the secrets of bookings, decoded preferences in the hospitality realm.
+--> Hotel Booking Lore: Revealed the secrets of bookings, decoded preferences in the hospitality realm.
 
-IMDb Sentiment Spell: Extracted sentiments from IMDb reviews, unveiling audience emotions.
+--> IMDb Sentiment Spell: Extracted sentiments from IMDb reviews, unveiling audience emotions.
 
-Uber Elevation: Delved into Uber's ride data, deciphering patterns and optimizing the journey.
+--> Uber Elevation: Delved into Uber's ride data, deciphering patterns and optimizing the journey.
 
 
 🎨 Visual Symphony:
